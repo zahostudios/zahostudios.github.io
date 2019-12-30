@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Zaho Studios</h1>
+<p>lorem ipsum paragraph.</p>
+</body>
+</html>
